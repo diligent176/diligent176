@@ -1,14 +1,22 @@
-### Jason Bellis
+## I'm Jason Bellis 👋
 
-Creator of **[BandBinder](https://bandbinder.app)**.
-The songbook your band builds in rehearsal is the one you perform with.
+### 🎸 Creator | [BandBinder](https://bandbinder.app)
 
-Windows · macOS · Android · iOS
+**One songbook. The whole band.**  
+_The songbook your band builds in rehearsal is the one you perform with._
 
-I play bass and drums in some bands. BandBinder exists because we needed it. We rehearse with it every week.
-
-Get it from [bandbinder.app](https://bandbinder.app) · [Download](https://bandbinder.app/download/) · [Docs](https://docs.bandbinder.app/)
+📱 **Cross-Platform:** iOS · Android · macOS · Windows
 
 ---
 
-**Toolbox:** GCP · Terraform · GitHub Actions · Flutter/Dart · Python · PowerShell
+### 💡 Why BandBinder?
+
+I play bass and drums in some bands. BandBinder exists because we needed it. We rehearse with it every week.
+
+👉 **Get Started:** [bandbinder.app](https://bandbinder.app) | [Download](https://bandbinder.app/download/) | [Docs](https://docs.bandbinder.app/)
+
+---
+
+### 🛠️ Toolbox
+
+`GCP` · `Terraform` · `GitHub Actions` · `Flutter / Dart` · `Python` · `PowerShell`

@@ -1,20 +1,37 @@
-## Jason Bellis
+<p align="center">
+  <a href="https://bandbinder.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/bandbinder-lockup-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/bandbinder-lockup-light.png">
+      <img alt="BandBinder" src="assets/bandbinder-lockup-light.png" width="400">
+    </picture>
+  </a>
+</p>
 
-### Creator of [BandBinder](https://bandbinder.app)
+<h3 align="center">One songbook. The whole band.</h3>
+<p align="center"><sub><b>REHEARSAL-BORN. STAGE-READY.</b></sub></p>
 
-**One songbook. The whole band.**  
-_The songbook your band builds in rehearsal is the one you perform with._
+<p align="center">
+  <a href="https://bandbinder.app"><b>bandbinder.app</b></a> &nbsp;·&nbsp;
+  <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
+  <a href="https://docs.bandbinder.app/"><b>Docs</b></a>
+</p>
 
-### Why BandBinder?
-
-I play bass and drums in some bands. BandBinder exists because we needed it. We rehearse with it every week.
-
-**Cross-platform:** iOS · Android · macOS · Windows
-
-**Get started:** [bandbinder.app](https://bandbinder.app) | [Download](https://bandbinder.app/download/) | [Docs](https://docs.bandbinder.app/)
+<p align="center"><sub>iOS &nbsp;·&nbsp; Android &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Linux</sub></p>
 
 ---
 
+### Hi, I'm Jason
+
+I play bass and drums in a few bands. BandBinder exists because we needed it: the songbook we build in rehearsal is the one we take on stage, and we rehearse with it every week.
+
 ### Toolbox
 
-`GCP` · `Terraform` · `GitHub Actions` · `Flutter / Dart` · `Python` · `PowerShell`
+<p>
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4650E8?style=flat-square&logo=googlecloud&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-4650E8?style=flat-square&logo=terraform&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-4650E8?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Flutter / Dart" src="https://img.shields.io/badge/Flutter_%2F_Dart-4650E8?style=flat-square&logo=flutter&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-4650E8?style=flat-square&logo=python&logoColor=white">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-4650E8?style=flat-square&logo=powershell&logoColor=white">
+</p>

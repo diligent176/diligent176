@@ -53,7 +53,7 @@ Cloud Architect & Software Engineer. Thirty years shipping code: from test labs 
   <b>Frameworks & platforms</b><br>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>
   <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></a>
-  <a href="https://developer.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
+  <a href="https://developer.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-073042?style=flat-square&logo=android&logoColor=3DDC84"></a>
   <a href="https://developer.apple.com/"><img alt="iOS / macOS" src="https://img.shields.io/badge/iOS_%2F_macOS-000000?style=flat-square&logo=apple&logoColor=white"></a>
   <a href="https://learn.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square"></a>
   <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>

@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">One songbook. The whole band.</h3>
-<p align="center"><sub><b>REHEARSAL-BORN. STAGE-READY.</b></sub></p>
+<p align="center"><sub><b>Rehearsal-born. Stage-ready.</b></sub></p>
 
 <p align="center">
   <a href="https://bandbinder.app"><b>bandbinder.app</b></a> &nbsp;·&nbsp;

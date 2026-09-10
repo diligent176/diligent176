@@ -1,3 +1,7 @@
+### Hi, I'm Jason, creator of [BandBinder - Charts & Setlists](https://bandbinder.app)
+
+I play bass and drums in a few bands. BandBinder exists because we needed it. The songbook we build in rehearsal is the one we take to the stage. We rehearse with it every week. Rehearsal-born, stage-ready.
+
 <p align="center">
   <a href="https://bandbinder.app">
     <picture>
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>One songbook. The whole band.</b> &nbsp;·&nbsp; Rehearsal-born. Stage-ready.<br>
+  <b>One songbook. The whole band.</b><br>
   <a href="https://bandbinder.app"><b>bandbinder.app</b></a> &nbsp;·&nbsp;
   <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
   <a href="https://docs.bandbinder.app/"><b>Docs</b></a><br>
@@ -17,10 +21,6 @@
 </p>
 
 ---
-
-### Hi, I'm Jason. Creator of [BandBinder](https://bandbinder.app).
-
-I play bass and drums in a few bands. BandBinder exists because we needed it: the songbook we build in rehearsal is the one we take on stage, and we rehearse with it every week.
 
 ### Toolbox
 
@@ -34,8 +34,8 @@ Cloud Architect & Software Engineer. Thirty years shipping code: from test labs 
   <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"></a>
   <a href="https://developer.hashicorp.com/terraform"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"></a>
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
   <a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
 </p>
 
 <p>
@@ -43,7 +43,6 @@ Cloud Architect & Software Engineer. Thirty years shipping code: from test labs 
   <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square"></a>
-  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square"></a>
   <a href="https://learn.microsoft.com/kusto/query/"><img alt="KQL" src="https://img.shields.io/badge/KQL-0078D4?style=flat-square"></a>

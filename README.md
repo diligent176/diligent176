@@ -23,11 +23,11 @@
 
 ### Hi, I'm Jason. Creator of [BandBinder](https://bandbinder.app).
 
-Cloud engineer, software developer and tester since 1995. Thirty years of shipping: from test labs and enterprise platforms to infrastructure-as-code, and now a Flutter app on five platforms with a GCP backend I run end to end.
-
 I play bass and drums in a few bands. BandBinder exists because we needed it: the songbook we build in rehearsal is the one we take on stage, and we rehearse with it every week.
 
 ### Toolbox
+
+Cloud Architect & Software Engineer. Thirty years shipping code: from test labs and enterprise platforms to infrastructure-as-code, and now a Flutter app on five platforms with a GCP backend.
 
 **Cloud & delivery**
 

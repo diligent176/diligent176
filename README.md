@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://bandbinder.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/bandbinder-lockup-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/bandbinder-lockup-light.png">
-      <img alt="BandBinder" src="assets/bandbinder-lockup-light.png" width="400">
-    </picture>
+    <img alt="BandBinder" src="assets/bandbinder-lockup.png" width="480">
   </a>
 </p>
 
@@ -21,7 +17,7 @@
 
 ---
 
-### Hi, I'm Jason
+### Hi, I'm Jason. Creator of [BandBinder](https://bandbinder.app).
 
 I play bass and drums in a few bands. BandBinder exists because we needed it: the songbook we build in rehearsal is the one we take on stage, and we rehearse with it every week.
 
@@ -33,5 +29,5 @@ I play bass and drums in a few bands. BandBinder exists because we needed it: th
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-4650E8?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Flutter / Dart" src="https://img.shields.io/badge/Flutter_%2F_Dart-4650E8?style=flat-square&logo=flutter&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-4650E8?style=flat-square&logo=python&logoColor=white">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-4650E8?style=flat-square&logo=powershell&logoColor=white">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-4650E8?style=flat-square">
 </p>

@@ -1,4 +1,4 @@
-### Hi, I'm Jason, creator of [BandBinder - Charts & Setlists](https://bandbinder.app)
+### Hi, I'm Jason. Creator of [BandBinder - Charts & Setlists](https://bandbinder.app)
 
 I play bass and drums in a few bands. BandBinder exists because we needed it. The songbook we build in rehearsal is the one we take to the stage. We rehearse with it every week. Rehearsal-born, stage-ready.
 

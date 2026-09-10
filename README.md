@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://bandbinder.app">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/bandbinder-hero-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/bandbinder-hero-light.png">
-      <img alt="BandBinder" src="assets/bandbinder-hero-dark.png" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/lockup-light.png">
+      <img alt="BandBinder" src="assets/lockup-dark.png" width="100%">
     </picture>
   </a>
 </p>

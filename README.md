@@ -1,11 +1,15 @@
 <p align="center">
   <a href="https://bandbinder.app">
-    <img alt="BandBinder" src="assets/bandbinder-lockup.png" width="480">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/bandbinder-hero-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/bandbinder-hero-light.png">
+      <img alt="BandBinder" src="assets/bandbinder-hero-dark.png" width="100%">
+    </picture>
   </a>
 </p>
 
 <h3 align="center">One songbook. The whole band.</h3>
-<p align="center"><sub><b>Rehearsal-born. Stage-ready.</b></sub></p>
+<p align="center"><b>Rehearsal-born. Stage-ready.</b></p>
 
 <p align="center">
   <a href="https://bandbinder.app"><b>bandbinder.app</b></a> &nbsp;·&nbsp;
@@ -13,7 +17,7 @@
   <a href="https://docs.bandbinder.app/"><b>Docs</b></a>
 </p>
 
-<p align="center"><sub>iOS &nbsp;·&nbsp; Android &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Linux</sub></p>
+<p align="center">iOS &nbsp;·&nbsp; Android &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Linux</p>
 
 ---
 

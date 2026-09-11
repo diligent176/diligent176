@@ -40,7 +40,7 @@ Core tools: `Flutter` · `Dart` · `GCP` · `Firebase` · `Terraform` · `GitHub
 
 ## Open source
 
-I contribute code, fixes, documentation, issue analysis, and implementation feedback across cloud SDKs, developer tools, cross-platform frameworks, and open formats. My public work spans the Flutter and Firebase ecosystem, native Windows WebView integration, Azure SDK and Service Bus tooling, Salesforce developer tools, Docker learning materials, VS Code and its extension ecosystem, PowerShell Package Management, PDF tooling, and ChordPro.
+I contribute code fixes, bug reports, documentation, and sometimes art work across cloud SDKs, developer tools, cross-platform frameworks, and open formats. My public work spans Flutter and Firebase ecosystem, Windows WebView integration, Azure SDK and Service Bus tooling, Salesforce developer tools, Docker Hub training material, VS Code extensions, PowerShell Package Management, and ChordPro community.
 
 Selected merged work includes a production fix in [FlutterFire](https://github.com/firebase/flutterfire/pull/18669), Kusto Query Language support for the [VS Code Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/968), PDF stamping support for [ddpmigrator](https://github.com/rbauction/ddpmigrator/pull/1), and BandBinder's addition to the [ChordPro ecosystem](https://github.com/ChordPro/chordpro/pull/691).
 

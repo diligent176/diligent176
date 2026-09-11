@@ -4,7 +4,8 @@
 
 I build and ship reliable software from product architecture through cloud infrastructure and delivery. For three decades I've designed, built, and operated enterprise systems, developer tools, cloud platforms, and cross-platform applications.
 
-Today I'm building BandBinder, the songbook my bands use in rehearsal and take to the stage.
+Today I'm building BandBinder, the songbook my bands use in rehearsal and take to the stage.<br>
+An offline-first, cross-platform songbook built for rehearsal and performance.
 
 <p align="center">
   <a href="https://bandbinder.app">
@@ -18,7 +19,6 @@ Today I'm building BandBinder, the songbook my bands use in rehearsal and take t
 
 <p align="center">
   <b>One songbook. The whole band.</b><br>
-  An offline-first, cross-platform songbook built for rehearsal and performance.<br><br>
   <a href="https://bandbinder.app"><b>Product</b></a> &nbsp;·&nbsp;
   <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
   <a href="https://docs.bandbinder.app/"><b>Docs</b></a><br>

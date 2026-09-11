@@ -22,7 +22,7 @@ Today I'm building BandBinder, the songbook my bands use in rehearsal and take t
   <a href="https://bandbinder.app"><b>Product</b></a> &nbsp;·&nbsp;
   <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
   <a href="https://docs.bandbinder.app/"><b>Docs</b></a><br>
-  <sub>Windows &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Android &nbsp;·&nbsp; iOS early access</sub>
+  <sub>Windows &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Android &nbsp;·&nbsp; iOS</sub>
 </p>
 
 ## Architecture & engineering

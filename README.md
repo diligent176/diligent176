@@ -1,6 +1,6 @@
 # Jason Bellis
 
-**Software engineer · Cloud architect · Founder of [BandBinder](https://bandbinder.app)**
+**Cloud architect · Software engineer · Founder of [BandBinder](https://bandbinder.app)**
 
 I build and ship reliable software from product architecture through cloud infrastructure and delivery. For three decades I've designed, built, and operated enterprise systems, developer tools, cloud platforms, and cross-platform applications.
 

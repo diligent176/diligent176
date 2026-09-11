@@ -4,8 +4,7 @@
 
 I build and ship reliable software from product architecture through cloud infrastructure and delivery. For three decades I've designed, built, and operated enterprise systems, developer tools, cloud platforms, and cross-platform applications.
 
-Today I'm building BandBinder, the songbook my bands use in rehearsal and take to the stage.<br>
-An offline-first, cross-platform songbook built for rehearsal and performance.
+Today I'm building **BandBinder**. An offline-first, cross-platform songbook for rehearsal and performance. I play bass and drums in a few bands, and built this to fit our needs. The songbook we use in rehearsal is the one we take on stage.
 
 <p align="center">
   <a href="https://bandbinder.app">

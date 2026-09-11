@@ -15,14 +15,13 @@ An offline-first, cross-platform songbook built for rehearsal and performance.
       <img alt="BandBinder" src="assets/lockup-dark.png" width="620">
     </picture>
   </a>
-</p>
-
-<p align="center">
+<br>
   <b>One songbook. The whole band.</b><br>
   <a href="https://bandbinder.app"><b>Product</b></a> &nbsp;·&nbsp;
   <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
   <a href="https://docs.bandbinder.app/"><b>Docs</b></a><br>
   <sub>Windows &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Android &nbsp;·&nbsp; iOS</sub>
+
 </p>
 
 ## Architecture & engineering

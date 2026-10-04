@@ -4,7 +4,7 @@
 
 I build and ship reliable software from product architecture through cloud infrastructure and delivery. For three decades I've designed, built, and operated enterprise systems, developer tools, cloud platforms, and cross-platform applications.
 
-Today I'm building **BandBinder**. An offline-first, cross-platform songbook for rehearsal and performance. I play bass and drums in a few bands, and built this to fit our needs. The songbook we use in rehearsal is the one we take on stage.
+Today I'm building **BandBinder**, an offline-first songbook for rehearsal and performance across desktop and mobile. I play bass and drums in several bands and built it around our needs. The songbook we use in rehearsal is the one we take on stage.
 
 <p align="center">
   <a href="https://bandbinder.com">
@@ -38,12 +38,12 @@ Core tools: `Flutter` · `Dart` · `GCP` · `Firebase` · `Terraform` · `GitHub
 
 ## Open source
 
-I contribute code fixes, bug reports, documentation, and sometimes art work across cloud SDKs, developer tools, cross-platform frameworks, and open formats. My public work spans Flutter and Firebase ecosystem, Windows WebView integration, Azure SDK and Service Bus tooling, Salesforce developer tools, Docker Hub training material, VS Code extensions, PowerShell Package Management, and ChordPro community.
-
-Selected merged work includes a production fix in [FlutterFire](https://github.com/firebase/flutterfire/pull/18669), Kusto Query Language support for the [VS Code Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/968), PDF stamping support for [ddpmigrator](https://github.com/rbauction/ddpmigrator/pull/1), and BandBinder's addition to the [ChordPro ecosystem](https://github.com/ChordPro/chordpro/pull/691).
-
-Current work on [flutter-webview-windows](https://github.com/jnschulze/flutter-webview-windows/pulls?q=is%3Apr+author%3Adiligent176) improves WebView2 lifecycle safety and exposes direct DevTools Protocol access for Flutter applications on Windows.
+I contribute code fixes, bug reports, documentation, and artwork to the open-source tools and communities I work with. My contributions span Flutter and Firebase, Windows WebView integration, Azure and Salesforce tooling, Docker, VS Code extensions, PowerShell package management, and ChordPro.
 
 ## How I work
 
 I favor systems that are observable, automatable, portable, and resilient when their dependencies are not. Product decisions and architecture belong in the same conversation: the best technical design is the one that makes the product more dependable for the people using it.
+
+---
+
+[Diligent Design - cloud solutions](https://diligentdesign.ca/) · [Seagoat Software - tools for working bands](https://seagoat.dev/) · [LinkedIn](https://ca.linkedin.com/in/jasonbellis)

@@ -1,13 +1,13 @@
 # Jason Bellis
 
-**Cloud architect · Software engineer · Founder of [BandBinder](https://bandbinder.app)**
+**Cloud architect · Software engineer · Founder of [BandBinder](https://bandbinder.com)**
 
 I build and ship reliable software from product architecture through cloud infrastructure and delivery. For three decades I've designed, built, and operated enterprise systems, developer tools, cloud platforms, and cross-platform applications.
 
 Today I'm building **BandBinder**. An offline-first, cross-platform songbook for rehearsal and performance. I play bass and drums in a few bands, and built this to fit our needs. The songbook we use in rehearsal is the one we take on stage.
 
 <p align="center">
-  <a href="https://bandbinder.app">
+  <a href="https://bandbinder.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/lockup-light.png">
@@ -16,9 +16,9 @@ Today I'm building **BandBinder**. An offline-first, cross-platform songbook for
   </a>
 <br>
   <b>One songbook. The whole band.</b><br>
-  <a href="https://bandbinder.app"><b>Product</b></a> &nbsp;·&nbsp;
-  <a href="https://bandbinder.app/download/"><b>Download</b></a> &nbsp;·&nbsp;
-  <a href="https://docs.bandbinder.app/"><b>Docs</b></a><br>
+  <a href="https://bandbinder.com"><b>Product</b></a> &nbsp;·&nbsp;
+  <a href="https://bandbinder.com/download/"><b>Download</b></a> &nbsp;·&nbsp;
+  <a href="https://docs.bandbinder.com/"><b>Docs</b></a><br>
   <sub>Windows &nbsp;·&nbsp; macOS &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Android &nbsp;·&nbsp; iOS</sub>
 
 </p>
